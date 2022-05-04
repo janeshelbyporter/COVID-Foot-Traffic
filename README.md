@@ -16,5 +16,5 @@ Using mobile phone data collected anonymously by Safegraph for the Charleston-No
 
 ## Acknowledgments
 
-* SafeGraph
 * Dr. Navid Hashemi at the College of Charleston for all of his help.
+* SafeGraph
