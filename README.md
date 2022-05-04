@@ -4,8 +4,8 @@ Using mobile phone data collected anonymously by Safegraph for the Charleston-No
 
 1. To run the models in this project, you will need access to the scikit-learn libraries and Ts-learn. This can be installed through pip or conda install.
 2. Download all the files. Make sure the csv files are saved in the same folder as the Jupyter Notebook files.
-3. Open  COVID_Data_Pre-Processing.ipynb in Jupyter Notebook. This file contains the steps I took to do preprocess the data. It will output a file called processed_data.csv. This file is also available for download if the file does not work as expected.
-4. Next, open  COVID_Modelling.ipynb in Jupyter Notebook. This is the file I used to build and test my models as well as create some of the visualizations.
+3. Open  COVID_Data_Pre-Processing.ipynb in Jupyter Notebook. This file contains the steps I took to do preprocess the data. It also contains the Tslearn time series k-means model. It will output a file called processed_data.csv. This file is also available for download if the file does not work as expected. 
+4. Next, open  COVID_Modelling.ipynb in Jupyter Notebook. This is the file I used to build and test the sci-kit learn model as well as create some of the visualizations.
 5. The last file, Visualization.ipynb shows how I created the first graph in the research paper.
 
 
